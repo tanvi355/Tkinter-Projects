@@ -18,19 +18,19 @@ Both these parameters are selected by the user.
 
 ## Output
 <p align="center">
-  <img src="https://github.com/tanvi355/Amazing-Python-Scripts/blob/master/Distance%20Conversion%20GUI/1.PNG">
+  <img src="https://github.com/tanvi355/Tkinter-Projects/blob/main/Random%20Password%20Generator/1.PNG">
   <br>
   Initial window
   <br><br>
-  <img src="https://github.com/tanvi355/Amazing-Python-Scripts/blob/master/Distance%20Conversion%20GUI/2.PNG">
+  <img src="https://github.com/tanvi355/Tkinter-Projects/blob/main/Random%20Password%20Generator/2.PNG">
   <br>
   Password generated
   <br><br>
-  <img src="https://github.com/tanvi355/Amazing-Python-Scripts/blob/master/Distance%20Conversion%20GUI/3.PNG">
+  <img src="https://github.com/tanvi355/Tkinter-Projects/blob/main/Random%20Password%20Generator/3.PNG">
   <br>
   Warning message
   <br><br>
-  <img src="https://github.com/tanvi355/Amazing-Python-Scripts/blob/master/Distance%20Conversion%20GUI/2.PNG">
+  <img src="https://github.com/tanvi355/Tkinter-Projects/blob/main/Random%20Password%20Generator/4.PNG">
   <br>
   Password copied to clipboard
   <br><br>
