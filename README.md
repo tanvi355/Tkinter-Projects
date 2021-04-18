@@ -1,2 +1,2 @@
 # Tkinter-Projects
-All of my Tkinter projects
+⚡ All of my Tkinter projects
