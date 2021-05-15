@@ -5,14 +5,6 @@ from tkinter import messagebox
 import random
 import time
 
-#main window
-root = Tk()
-root.title('Linear Search Visualizer')
-#background color
-root.config(bg = "grey")
-#disabling resizing of window
-root.resizable(0, 0)
-
 #array of elements / rectangle heights
 array = []
 
@@ -96,6 +88,16 @@ def search():
         messagebox.showinfo("Failure", "Key not found")
 
 
+#!-- GUI code starts--!
+
+#main window
+root = Tk()
+root.title('Linear Search Visualizer')
+#background color
+root.config(bg = "grey")
+#disabling resizing of window
+root.resizable(0, 0)
+
 #---adding frames---
 #top name frame
 top = Frame(root, width = 1300, height = 200, bg = '#98AFC7', bd = 8, relief = "groove")
@@ -147,3 +149,4 @@ Search.grid(row = 1, column = 4, padx = 15, pady = 5, ipadx = 20, ipady = 5)
 
 
 root.mainloop()
+#!-- GUI code end--!
